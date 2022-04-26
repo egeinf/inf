@@ -15,3 +15,27 @@ for i in range(1, len(a)):
             r = a[i][0]
 
 print(r, w)
+
+# Проверка что число есть в списке
+def binarySearch(a, x):
+    if a[0] > x: return -1
+
+    left = 0
+    right = len(a)
+    while right > left + 1:
+        m = (left + right) // 2
+        if x < a[m]:
+            right = m
+        else:
+            left = m
+
+    if a[left] == x:
+        return left
+    else:
+        return -1
+
+
+a = [3, 6, -8, 8]
+a.sort()
+
+print(binarySearch(a, 8))
