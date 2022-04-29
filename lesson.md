@@ -30,7 +30,7 @@
 
 29 https://us02web.zoom.us/wc/join/88258483684
 
-30 февраля https://us02web.zoom.us/wc/join/88177545582
+30 https://us02web.zoom.us/wc/join/88177545582
 
 4 марта https://us02web.zoom.us/wc/join/89490870048
 
