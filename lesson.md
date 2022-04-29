@@ -20,7 +20,7 @@
 
 22 https://us02web.zoom.us/wc/join/82507655273
 
-24 февраля https://us02web.zoom.us/wc/join/82309911565
+24 https://us02web.zoom.us/wc/join/82309911565
 
 25 февраля https://us02web.zoom.us/wc/join/84613747763
 
