@@ -2,6 +2,8 @@
 
 3 https://us02web.zoom.us/wc/join/86357397503
 
+4 https://us02web.zoom.us/wc/join/89490870048
+
 6 https://us02web.zoom.us/wc/join/82105300395
 
 10 https://us02web.zoom.us/wc/join/883304342326
@@ -31,8 +33,6 @@
 29 https://us02web.zoom.us/wc/join/88258483684
 
 30 https://us02web.zoom.us/wc/join/88177545582
-
-4 марта https://us02web.zoom.us/wc/join/89490870048
 
 7 марта https://us02web.zoom.us/wc/join/88260525578
 
