@@ -8,7 +8,7 @@
 
 20 https://us02web.zoom.us/wc/join/89728755618
 
-14 февраля https://us02web.zoom.us/wc/join/87458753245
+14 https://us02web.zoom.us/wc/join/87458753245
 
 15 февраля https://us02web.zoom.us/wc/join/84463340636
 
