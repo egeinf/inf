@@ -1,22 +1,21 @@
 # МНОГО СТРОК
-a = open('24.txt')
-z = [i.strip() for i in a]
+f = open('24.txt')
+a = [i.strip() for i in f]
 
-for x in range (len(z)):
-    if int(z[x]) % 2 == 0:
-        print(z[x])
+for x in range (len(a)):
+    if int(a[x]) % 2 == 0:
+        print(a[x])
 
 # 1 СТРОКА | САМАЯ ДЛИННАЯ ЦЕПОЧКА НЕЧЕТНЫХ ЧИСЕЛ КОТОРАЯ ВСЕГДА УВЕЛИЧИВАЕТСЯ
-f = open('24.txt')
-line = f.readline()
+f = open('24.txt').readline()
 
 max = 0
 k = 0
 
-for i in range(len(line)):
-    if int(line[i]) % 2 == 0:
+for i in range(len(f)):
+    if int(f[i]) % 2 == 0:
         k = 0
-    elif line[i] >= line[i-1]:
+    elif f[i] >= f[i-1]:
         k += 1
     else:
         k = 1
