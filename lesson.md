@@ -10,11 +10,11 @@
 
 14 https://us02web.zoom.us/wc/join/87458753245
 
-15 февраля https://us02web.zoom.us/wc/join/84463340636
+15 https://us02web.zoom.us/wc/join/84463340636
 
-18 февраля https://us02web.zoom.us/wc/join/86843962228
+18 https://us02web.zoom.us/wc/join/86843962228
 
-21 февраля https://us02web.zoom.us/wc/join/81542999899
+21 https://us02web.zoom.us/wc/join/81542999899
 
 22 февраля https://us02web.zoom.us/wc/join/82507655273
 
@@ -28,9 +28,9 @@
 
 30 февраля https://us02web.zoom.us/wc/join/88177545582
 
-1 марта https://us02web.zoom.us/wc/join/88087757512
+1 https://us02web.zoom.us/wc/join/88087757512
 
-3 марта https://us02web.zoom.us/wc/join/86357397503
+3 https://us02web.zoom.us/wc/join/86357397503
 
 4 марта https://us02web.zoom.us/wc/join/89490870048
 
