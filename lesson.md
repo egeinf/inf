@@ -26,7 +26,7 @@
 
 26 https://us02web.zoom.us/wc/join/87829666060
 
-28 февраля https://us02web.zoom.us/wc/join/87307694543
+28 https://us02web.zoom.us/wc/join/87307694543
 
 29 https://us02web.zoom.us/wc/join/88258483684
 
