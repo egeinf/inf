@@ -8,12 +8,12 @@ for N in range(100):
         a.append(int(N[i]))
         
         sumN = sum(a) % 2 # сумма делится на два
-    N = N + str(sumN) # сумма добавляется в чис
+    N = N + str(sumN) # сумма добавляется в число
     a = []
     for i in range(len(N)): # складываются все числа
         a.append(int(N[i]))
         sumN = sum(a) % 2 # сумма делится на два
-    N = N + str(sumN) # сумма добавляется в чис
+    N = N + str(sumN) # сумма добавляется в число
     
     N = int(N, 2)
     if int(N) > 55:
