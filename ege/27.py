@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 n = int(input())
 a = []
 for i in range(n):
@@ -122,8 +121,7 @@ for i in range(n):
         if s % 7 == 0:
             k += 1
 print(k)
-###########################################
-# Контрольная сумма R
+#################### Контрольная сумма R
 n = int(input())
 a = []
 for i in range(n):
@@ -222,4 +220,3 @@ for i in range(n):
             k += 1
 print(k)
 ##########################
->>>>>>> Stashed changes
