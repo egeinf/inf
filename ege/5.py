@@ -19,7 +19,6 @@ for N in range(100):
     if int(N) > 55:
         print(N)
         
-        
 ## ЗАПИСЬ ПЕРЕВОРАЧИВАЕМ
 for N in range(1,88):
   res_N = N # ЗАПОМИНАЕМ РЕЗУЛЬТАТ
