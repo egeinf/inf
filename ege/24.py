@@ -1,5 +1,5 @@
 # МНОГО СТРОК
-f = open('24.txt')
+f = open('ege/24.txt')
 a = [i.strip() for i in f]
 
 for x in range (len(a)):
@@ -7,7 +7,7 @@ for x in range (len(a)):
         print(a[x])
 
 # 1 СТРОКА | САМАЯ ДЛИННАЯ ЦЕПОЧКА НЕЧЕТНЫХ ЧИСЕЛ КОТОРАЯ ВСЕГДА УВЕЛИЧИВАЕТСЯ
-f = open('24.txt').readline()
+f = open('ege/24.txt').readline()
 
 max = 0
 k = 0
