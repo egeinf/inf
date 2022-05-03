@@ -1,2 +1,3 @@
-a = [i.strip() for i in '']
-print(a)
+k = 4096 * 1536
+i 
+N = 2 ** i
