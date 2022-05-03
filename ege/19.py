@@ -1,4 +1,4 @@
-#  1 КУЧА
+# 1 КУЧА
 print('Задача 19:')
 def f(x, p):
     if x >= 42 or p > 3: return p == 3
