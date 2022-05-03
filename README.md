@@ -25,15 +25,15 @@ https://inf-ege.sdamgia.ru/?redir=1
 | [16 💚](https://github.com/voron5096/inf/blob/main/ege/16.py) | Скопировать код | Рекурсия`F(n)` if n == 1 return 0 Найдите f(12) |
 | [17 💛](https://github.com/voron5096/inf/blob/main/ege/17.py) | Последовательность | Excel, [1233;123123] Найдите количество и минимальное из них |
 | [18 💚](https://github.com/voron5096/inf/blob/main/ege/18.md) | Робот | Excel |
-| [19 ❤](https://github.com/voron5096/inf/blob/main/ege/19.py) | Кучи камней | Петя и Вася, Excel, сложный код |
-| [20 ❤](https://github.com/voron5096/inf/blob/main/ege/19.md) | Кучи камней | Петя и Вася, Excel, сложный код |
-| [21 ❤](https://github.com/voron5096/inf/blob/main/ege/19.md) | Кучи камней | Петя и Вася, Excel, сложный код |
+| [19 ❤](https://github.com/voron5096/inf/blob/main/ege/19.py) | Кучи камней | Петя и Вася, сложный код |
+| [20 ❤](https://github.com/voron5096/inf/blob/main/ege/19.md) | Кучи камней | Петя и Вася, сложный код |
+| [21 ❤](https://github.com/voron5096/inf/blob/main/ege/19.md) | Кучи камней | Петя и Вася, сложный код |
 | [22 💚](https://github.com/voron5096/inf/blob/main/ege/22.py) | Скопировать код | `a == 1 and b == 3` Ниже записана программа, определите...  |
-| [23 💛](https://github.com/voron5096/inf/blob/main/ege/23.py) | Исполнитель 2 команды | Excel, кол-во программ,`make(x, y)` |
+| [23 💛](https://github.com/voron5096/inf/blob/main/ege/23.py) | Исполнитель 2 команды | Кол-во программ,`make(x, y)` |
 | [24 💛](https://github.com/voron5096/inf/blob/main/ege/24.py) | Файл XYZ | 1 строка, или несколько строк файлов |
 | [25 💚](https://github.com/voron5096/inf/blob/main/ege/25.py) | Вложенные циклы | НОД, [234525;784625] `for j in range(i + 1, N)` |
 | [26 ❤](https://github.com/voron5096/inf/blob/main/ege/26.py) | Разные задачи | Excel |
-| [27](https://github.com/voron5096/inf/blob/main/ege/27.py) | | |
+| [27 ❤](https://github.com/voron5096/inf/blob/main/ege/27.py) | Вложенные циклы 2 | |
 
 # CC
 
