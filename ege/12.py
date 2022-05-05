@@ -16,3 +16,10 @@ while ('444' in s) or ('7777' in s):
   else:
     s = s.replace('7777', '44', 1)
 print(s)
+# при скольких количествах 1 более 250 штук, строчка будет содержать MAX. количество 5
+for x in range(250,400):
+    s = '1' * x
+    while '111111111' in s:
+        s = s.replace('11111', '22', 1)
+        s = s.replace('222', '1', 1)
+    print(x, s.count('1'))
