@@ -28,7 +28,20 @@ def F(x): # Разность МАК и МИН делителя целого чи
     return 0
 
 
+def isSimple(x): # числа которые можно представить в виде
+    if x == 1: return False
+    d = 2
+    while d * d <= x:
+        if x % d == 0:
+            return False
+        d += 1
+    return True
 
+for m in range(0,31,2):
+    for n in range(1,31,2):
+        x = 2 ** m * 3 ** n
+        if 70_000_000 <= x <= 270_000_000:
+            print(x)
 
 ################# Какой-то старый архивный код
 a = []
