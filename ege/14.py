@@ -11,3 +11,14 @@ while x:
 	result += str(x % sys)
 	x //= sys
 print(result.count('8'))
+
+# При каком минимальном i получится в записи цифр. При каком МИН. целом Х это возможно?
+for i in range(1000):
+    x = 64**4+4**4-1-i
+    res = ''
+    while x != 0:
+        res += str(x % 4)
+        x //= 4
+    if res.count('3') == 8:
+        print(i)
+        break
