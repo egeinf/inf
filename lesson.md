@@ -12,6 +12,8 @@
 
 11 https://us02web.zoom.us/wc/join/85947698699
 
+12 https://us02web.zoom.us/wc/join/82451246363
+
 13 https://us02web.zoom.us/wc/join/82783637999
 
 20 https://us02web.zoom.us/wc/join/89728755618
