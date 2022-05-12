@@ -16,13 +16,13 @@
 
 13 https://us02web.zoom.us/wc/join/82783637999
 
-20 https://us02web.zoom.us/wc/join/89728755618
-
 14 https://us02web.zoom.us/wc/join/87458753245
 
 15 https://us02web.zoom.us/wc/join/84463340636
 
 18 https://us02web.zoom.us/wc/join/86843962228
+
+20 https://us02web.zoom.us/wc/join/89728755618
 
 21 https://us02web.zoom.us/wc/join/81542999899
 
