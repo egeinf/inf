@@ -32,6 +32,8 @@
 
 22 https://us02web.zoom.us/wc/join/82507655273
 
+23 https://us02web.zoom.us/wc/join/82890892428
+
 24 https://us02web.zoom.us/wc/join/82309911565
 
 25 https://us02web.zoom.us/wc/join/84613747763
