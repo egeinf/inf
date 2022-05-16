@@ -20,8 +20,6 @@
 
 15 https://us02web.zoom.us/wc/join/84463340636
 
-16 https://us02web.zoom.us/wc/join/81421265981
-
 18 https://us02web.zoom.us/wc/join/86843962228
 
 19 https://us02web.zoom.us/wc/join/89333328695
@@ -52,3 +50,5 @@ https://us02web.zoom.us/wc/join/88260525578
 https://us02web.zoom.us/wc/join/82141834031
 
 https://us02web.zoom.us/wc/join/89629764363
+
+https://us02web.zoom.us/wc/join/81421265981
