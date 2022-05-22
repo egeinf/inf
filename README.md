@@ -1,3 +1,4 @@
+# [KIM25010850](https://github.com/voron5096/inf)
 https://kompege.ru/variant?kim=25010850
 
 5	0		9
