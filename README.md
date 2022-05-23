@@ -4,6 +4,7 @@ https://inf-ege.sdamgia.ru/?redir=1
 <br>
 Использовались материалы https://github.com/romanrakhlin/ege-informatics
 
+[image](https://img.shields.io/github/last-commit/voron5096/inf)
 
 | Номер | Тема | Описание |
 | :---------- | :------------- | :------------ |
