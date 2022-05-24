@@ -1,0 +1,54 @@
+1 https://us02web.zoom.us/wc/join/88087757512
+
+3 https://us02web.zoom.us/wc/join/86357397503
+
+4 https://us02web.zoom.us/wc/join/89490870048
+
+6 https://us02web.zoom.us/wc/join/82105300395
+
+8 https://us02web.zoom.us/wc/join/87288475505
+
+10 https://us02web.zoom.us/wc/join/83304342326
+
+11 https://us02web.zoom.us/wc/join/85947698699
+
+12 https://us02web.zoom.us/wc/join/82451246363
+
+13 https://us02web.zoom.us/wc/join/82783637999
+
+14 https://us02web.zoom.us/wc/join/87458753245
+
+15 https://us02web.zoom.us/wc/join/84463340636
+
+18 https://us02web.zoom.us/wc/join/86843962228
+
+19 https://us02web.zoom.us/wc/join/89333328695
+
+20 https://us02web.zoom.us/wc/join/89728755618
+
+21 https://us02web.zoom.us/wc/join/81542999899
+
+22 https://us02web.zoom.us/wc/join/82507655273
+
+23 https://us02web.zoom.us/wc/join/82890892428
+
+24 https://us02web.zoom.us/wc/join/82309911565
+
+25 https://us02web.zoom.us/wc/join/84613747763
+
+26 https://us02web.zoom.us/wc/join/87829666060
+
+28 https://us02web.zoom.us/wc/join/87307694543
+
+29 https://us02web.zoom.us/wc/join/88258483684
+
+30 https://us02web.zoom.us/wc/join/88177545582
+
+https://us02web.zoom.us/wc/join/88260525578
+
+
+https://us02web.zoom.us/wc/join/82141834031
+
+https://us02web.zoom.us/wc/join/89629764363
+
+https://us02web.zoom.us/wc/join/81421265981
