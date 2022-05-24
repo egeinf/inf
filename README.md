@@ -1,9 +1,10 @@
-## [KIM25009665](https://github.com/voron5096/inf/tree/KIM25009665)
+## [KIM25009665](https://github.com/voron5096/inf/tree/KIM25009665) | [KIM25010850](https://github.com/voron5096/inf/tree/KIM25010850)
 
 https://inf-ege.sdamgia.ru/?redir=1
 <br>
 Использовались материалы https://github.com/romanrakhlin/ege-informatics
 
+![image](https://img.shields.io/github/last-commit/voron5096/inf)
 
 | Номер | Тема | Описание |
 | :---------- | :------------- | :------------ |
