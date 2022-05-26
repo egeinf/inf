@@ -18,7 +18,3 @@ def f(x, y, p):
         return f(x, y, p + 1) or f(x, y, p + 1)
     else:
         return f(x, y, p + 1) and f(x, y, p + 1)
-
-
-
-
