@@ -8,7 +8,7 @@ for x in itertools.product('ЛАГЕРЬ', repeat=6):
       if x[i-1] != 'Е' and x[i] != 'А':
         count += 1
         print(count, ''.join(x))
-
+################
 import itertools
 count = 0
 for x in itertools.product('СУМКА', repeat=4):
@@ -16,7 +16,7 @@ for x in itertools.product('СУМКА', repeat=4):
   if x.count('У') >= 1:
     count += 1
     print(count, ''.join(x))
-
+################
 import itertools
 count = 0
 for x in itertools.product('КУРИЦА', repeat=4):
@@ -24,7 +24,7 @@ for x in itertools.product('КУРИЦА', repeat=4):
   if x.count('У') >= 2:
     count += 1
     print(count, ''.join(x))
-
+################
 import itertools
 count = 0
 for x in itertools.product('СЛОН', repeat=4):
