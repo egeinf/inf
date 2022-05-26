@@ -1,3 +1,4 @@
+# pylint: disable=all
 # 1 КУЧА
 print('Задача 19:')
 def f(x, p):
