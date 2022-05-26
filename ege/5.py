@@ -14,11 +14,11 @@ for N in range(100):
         a.append(int(N[i]))
         sumN = sum(a) % 2 # сумма делится на два
     N = N + str(sumN) # сумма добавляется в число
-    
+ 
     N = int(N, 2)
     if int(N) > 55:
         print(N)
-        
+    
 ## ЗАПИСЬ ПЕРЕВОРАЧИВАЕМ
 for N in range(1,88):
   res_N = N # ЗАПОМИНАЕМ РЕЗУЛЬТАТ
