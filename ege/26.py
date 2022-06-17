@@ -1,5 +1,4 @@
-f = open('26.txt')
-n = int(f.readline())
+f = open('26.txt').readline()
 
 a = []
 for line in f:
